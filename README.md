@@ -49,6 +49,7 @@ First add the picklists, then the objects.
 
 
 3. Create a picklist called Timezone
+
 | Field       | Key         |
 | :---        | :---        |
 | Eastern     | Eastern    	|
