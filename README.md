@@ -40,6 +40,7 @@ First add the picklists, then the objects.
 | shipped     | shipped     |
 
 2. Create a picklist called Units
+
 | Field       | Key         |
 | :---        | :---        |
 | 1 - 100     | 1       	|
